@@ -1,0 +1,42 @@
+@media screen and (min-device-width: 1170px) {
+    #heading {
+        height: 100vh;
+        background-image: url('../img/man-1.jpg')
+    }
+}
+
+@media screen and (min-device-width: 1170px) {
+    .text {
+        text-align: left;
+        top: 45%;
+    }
+}
+
+@media screen and (min-device-width: 992px) and (max-device-width: 1170px) {
+    #heading {
+        height: 70vh;
+        background-image: url('../img/man-2.jpg');
+    }
+}
+
+@media screen and (min-device-width: 992px) and (max-device-width: 1170px) {
+    .text {
+        top: 20%;
+        text-align: right;
+    }
+}
+
+
+@media screen and (max-device-width: 992px) {
+#heading {
+        height: 50vh;
+        background-image: url('../img/man-1.jpg');
+    }
+}
+
+@media screen and (max-device-width: 992px) {
+    .text {
+        text-align: center;
+        color: black;
+        top: 100%;
+}

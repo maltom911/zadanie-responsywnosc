@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Verdana;
+    color: white;
+}
+
+#heading {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80%;
+    position: relative;
+    
+}
+
+.text {
+    width: 100%;
+    position: absolute;
+    font-size: 25px;
+    margin: 0;
+    line-height: 200%;
+}
+
+span {
+    font-size: 35px;
+}
+
